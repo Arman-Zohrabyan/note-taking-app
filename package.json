@@ -1,0 +1,39 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "babel-runtime": "^6.26.0",
+    "bcrypt": "^1.0.1",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.2.1",
+    "lodash": "^4.17.5",
+    "material-ui": "^0.20.0",
+    "mongodb": "^3.0.0-rc0",
+    "mongoose": "4.10.8",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "validator": "^6.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "start:nodemon": "nodemon --use-strict index.js"
+  }
+}

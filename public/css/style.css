@@ -1,0 +1,32 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  margin-top: 15px;
+}
+
+.auth-container {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 700px;
+}
+
+.card-heading {
+  padding: 16px;
+}
+
+.field-line, .button-line {
+  padding: 0 15px 20px;
+}
+
+.error-message {
+  padding: 0 16px;
+  color: tomato;
+}
+
+.success-message {
+  padding: 0 16px;
+  color: green;
+}

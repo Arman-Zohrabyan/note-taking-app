@@ -21,7 +21,7 @@ npm run start:nodemoon (for server)
 Simple build for production
 $ npm run build
 
-##Languages & tools
+## Languages & tools
 
 JavaScript
 React is used for UI.
